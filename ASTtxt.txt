@@ -1,0 +1,9 @@
+Function: add
+  Statement: Compound
+    Return(expr=BinaryOp(op='+',
+                     left=ID(name='x'
+                             ),
+                     right=ID(name='y'
+                              )
+                     )
+       )
