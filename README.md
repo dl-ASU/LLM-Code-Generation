@@ -9,6 +9,8 @@
 - Generated Knowledge Prompting -> Rana
 - Self-Consistency -> Sameh (you should also prepare the parcing code and you can edit the output a little bit)
 
+### (Material for study)[https://www.promptingguide.ai]
+
 ### Every one must prepare a prompt based on his/her corresponding Technique for our proplem and must provide to the model good knowledge and content from examples and different methods.
 
 NOTE: If you done you can move through other techniques
